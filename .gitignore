@@ -1,0 +1,17 @@
+
+.gradle
+/build
+gradle/wrapper/gradle-wrapper.jar
+
+
+/.idea
+*.iml
+/captures
+.externalNativeBuild
+.cxx
+
+
+local.properties
+
+
+/app/build
