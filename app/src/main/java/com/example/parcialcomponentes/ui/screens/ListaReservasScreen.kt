@@ -178,3 +178,6 @@ fun ReservaCard(reserva: Reserva, onEditar: () -> Unit, onEliminar: () -> Unit) 
         }
     }
 }
+
+
+
